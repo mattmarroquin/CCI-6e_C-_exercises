@@ -1,0 +1,3 @@
+https://stackoverflow.com/a/10814273
+https://stackoverflow.com/a/20507503/498730
+https://en.cppreference.com/w/cpp/language/range-for
